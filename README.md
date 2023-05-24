@@ -11,7 +11,7 @@ I am a novice developer, student of the Ural Federal University.
 * [Skillbox: Python Advanced](https://github.com/wafflelios/Python-Advanced) - 4th semester of study, Python
 
 <p align='center'>
-   📫 Contact me:<br><a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 Contact me:<br><a href='Ksenia.Gomzikova@urfu.me'>Ksenia.Gomzikova@urfu.me</a>
 </p>
 <p align='center'>
    <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
