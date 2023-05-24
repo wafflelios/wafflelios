@@ -6,6 +6,6 @@
 </p>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/wafflelios/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=wafflelios&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=wafflelios&color=20B2AA">
    </a>
 </div>
