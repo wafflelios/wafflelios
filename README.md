@@ -11,15 +11,6 @@ I am a novice developer, student of the Ural Federal University.
 * [Skillbox: Python Advanced](https://github.com/wafflelios/Python-Advanced) - 4th semester of study, Python
 
 <p align='center'>
-   📫 Contact me:<br><a href='Ksenia.Gomzikova@urfu.me'>Ksenia.Gomzikova@urfu.me</a>
-</p>
-<p align='center'>
-   <a href="https://t.me/wafflelios">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-</p>
-
-<p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=wafflelios&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=wafflelios&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/wafflelios/github-readme-stats">
@@ -30,3 +21,12 @@ I am a novice developer, student of the Ural Federal University.
        <img width="175px" src="https://komarev.com/ghpvc/?username=wafflelios&color=20B2AA">
    </a>
 </div>
+
+<p align='center'>
+   📫 Contact me:<br><a href='Ksenia.Gomzikova@urfu.me'>Ksenia.Gomzikova@urfu.me</a>
+</p>
+<p align='center'>
+   <a href="https://t.me/wafflelios">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+</p>
