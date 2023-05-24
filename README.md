@@ -1,4 +1,4 @@
-#Hi, I'm Ksenia 🍑
+# Hi, I'm Ksenia 🍑
 I am a novice developer, student of the Ural Federal University. 
 
 ### 🛠 Technical Stack
