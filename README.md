@@ -7,8 +7,9 @@ I am a novice developer, student of the Ural Federal University.
 * Github
 
 ### 📚 Open repositories
-* [Algorithms and_complexity analysis](https://github.com/wafflelios/Algorithms_and_complexity_analysis) - 4th semester of study, Python
-* [Skillbox: Python Advanced](https://github.com/wafflelios/Python-Advanced) - 4th semester of study, Python
+* [Algorithms and_complexity analysis](https://github.com/wafflelios/Algorithms_and_complexity_analysis) - 4th semester of study
+* [Skillbox: Python Advanced](https://github.com/wafflelios/Python-Advanced) - 4th semester of study
+* [REST-service](https://github.com/wafflelios/REST-service) - Test task for the Python course
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=wafflelios&show_icons=true&count_private=true">
