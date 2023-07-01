@@ -3,7 +3,7 @@ I am a novice developer, student of the Ural Federal University.
 
 ### 🛠 Technical Stack
 * Python
-* MySQL
+* PostgreSQL
 * Github
 
 ### 📚 Open repositories
