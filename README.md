@@ -2,9 +2,10 @@
 I am a novice developer, student of the Ural Federal University. 
 
 ### 🛠 Technical Stack
+* Unity
+* C#
 * Python
 * PostgreSQL
-* Github
 
 ### 📚 Open repositories
 * [Algorithms and_complexity analysis](https://github.com/wafflelios/Algorithms_and_complexity_analysis) - 4th semester of study
